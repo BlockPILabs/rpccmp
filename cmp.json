@@ -1,0 +1,18 @@
+{
+  "tag": "ethereum",
+  "endpoints": [
+    {
+      "name": "blockpi",
+      "url": "https://ethereum.blockpi.network/v1/rpc/public"
+    },
+    {
+      "name": "ankr",
+      "url": "https://rpc.ankr.com/eth"
+    }
+  ],
+  "data": [
+    "{\"jsonrpc\":\"2.0\",\"id\":1,\"method\":\"eth_estimateGas\",\"params\":[{\"gasPrice\":\"0x0\"}]}"
+  ]
+}
+
+
